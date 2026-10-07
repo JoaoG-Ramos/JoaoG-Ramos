@@ -88,13 +88,27 @@ In my journey as a student I have achieved some medals and awards, especially in
 </table>
 
 
-OBMEP: Brazilian Mathematical Olympiad of Public Schools;
-OBA: Brazilian Astronomy and Astronautics Olympiad;
-OP: Brazilian Portuguese Olympiad;
-OLITEF: Brazilian Financial Education Olympiad;
-OBLI: Brazilian English Language Olympiad;
-OMOC: Western Santa Catarina Mathematical Olympiad.
-
+ <tr>
+    <td>OBA</td>
+    <td>Brazilian Astronomy and Astronautics Olympiad</td>
+  </tr>
+  <tr>
+    <td>OP</td>
+    <td>Brazilian Portuguese Olympiad</td>
+  </tr>
+  <tr>
+    <td>OLITEF</td>
+    <td>Brazilian Financial Education Olympiad</td>
+  </tr>
+  <tr>
+    <td>OBLI</td>
+    <td>Brazilian English Language Olympiad</td>
+  </tr>
+  <tr>
+    <td>OMOC</td>
+    <td>Western Santa Catarina Mathematical Olympiad</td>
+  </tr>
+</table>
 
 I have also participated in academic programs like PIC (Junior Scientific Initiation Program), promoted by IMPA. I completed the program in 2025, and this year, I'm participating in it again. Through PIC, I reached a high level in mathematics compared to my previous knowledge.
 
