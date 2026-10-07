@@ -6,20 +6,87 @@ I'm also studying C language because I love the tech world and I plan to become 
 In my journey as a student I have achieved some medals and awards, especially in math, wich I like a lot:
 
 
-Name	         Placement            	Year	         Level
+<table>
+  <tr>
+    <th>Competition</th>
+    <th>Achievement</th>
+    <th>Year</th>
+    <th>Level</th>
+  </tr>
+  <tr>
+    <td>OBMEP</td>
+    <td>🥉 Bronze Medal</td>
+    <td>2024</td>
+    <td>National</td>
+  </tr>
+  <tr>
+    <td>OBMEP</td>
+    <td>🥈 Silver Medal</td>
+    <td>2024</td>
+    <td>Regional</td>
+  </tr>
+  <tr>
+    <td>OBMEP</td>
+    <td>🏅 Honorable Mention</td>
+    <td>2025</td>
+    <td>National</td>
+  </tr>
+  <tr>
+    <td>OBMEP</td>
+    <td>🥉 Bronze Medal</td>
+    <td>2025</td>
+    <td>Regional</td>
+  </tr>
+  <tr>
+    <td>OBA</td>
+    <td>🥈 Silver Medal</td>
+    <td>2024</td>
+    <td>National</td>
+  </tr>
+  <tr>
+    <td>OP</td>
+    <td>🥇 Gold Medal</td>
+    <td>2024</td>
+    <td>National</td>
+  </tr>
+  <tr>
+    <td>OP</td>
+    <td>🥈 Silver Medal</td>
+    <td>2025</td>
+    <td>National</td>
+  </tr>
+  <tr>
+    <td>OLITEF</td>
+    <td>🥉 Bronze Medal</td>
+    <td>2025</td>
+    <td>National</td>
+  </tr>
+  <tr>
+    <td>OBLI</td>
+    <td>🥇 Gold Medal</td>
+    <td>2026</td>
+    <td>National</td>
+  </tr>
+  <tr>
+    <td>OMOC</td>
+    <td>🥉 Bronze Medal</td>
+    <td>2023</td>
+    <td>Regional</td>
+  </tr>
+  <tr>
+    <td>OMOC</td>
+    <td>🥈 Silver Medal</td>
+    <td>2024</td>
+    <td>Regional</td>
+  </tr>
+  <tr>
+    <td>OMOC</td>
+    <td>🥈 Silver Medal</td>
+    <td>2025</td>
+    <td>Regional</td>
+  </tr>
+</table>
 
-OBMEP  	      Bronze medal	          2024	        National
-OBMEP	        Silver medal	          2024	        Regional
-OBMEP      	  Honorable mention	      2025	        National
-OBMEP	        Bronze medal	          2025	        Regional
-OBA	          Silver medal          	2024	        National
-OP	          Gold medal	            2024	        National
-OP	          Silver medal	          2025	        National
-OLITEF	      Bronze medal          	2025	        National
-OBLI	        Gold medal	            2026	        National
-OMOC	        Bronze medal           	2023	        Regional
-OMOC	        Silver medal	          2024	        Regional
-OMOC	        Silver medal	          2025	        Regional
 
 OBMEP: Brazilian Mathematical Olympiad of Public Schools
 OBA: Brazilian Astronomy and Astronautics Olympiad
