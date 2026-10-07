@@ -87,7 +87,6 @@ In my journey as a student I have achieved some medals and awards, especially in
   </tr>
 </table>
 
-
  <tr>
     <td>OBA</td>
     <td>Brazilian Astronomy and Astronautics Olympiad</td>
