@@ -87,7 +87,16 @@ In my journey as a student I have achieved some medals and awards, especially in
   </tr>
 </table>
 
- <tr>
+ <table>
+  <tr>
+    <th>Abbreviation</th>
+    <th>Competition</th>
+  </tr>
+  <tr>
+    <td>OBMEP</td>
+    <td>Brazilian Mathematical Olympiad of Public Schools</td>
+  </tr>
+  <tr>
     <td>OBA</td>
     <td>Brazilian Astronomy and Astronautics Olympiad</td>
   </tr>
