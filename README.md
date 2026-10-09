@@ -90,7 +90,7 @@ In my journey as a student I have achieved some medals and awards, especially in
  <table>
   <tr>
     <th>Abbreviation</th>
-    <th>Competition</th>
+    <th>Name</th>
   </tr>
   <tr>
     <td>OBMEP</td>
